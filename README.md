@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ananya V. Hoode — AI/ML & Software Engineering" width="100%" />
+<img src="banner.svg" alt="Ananya V. Hoode — AI/ML & Software Engineering" width="100%" />
 
 ### Computer Science (AI & ML) · Python · Full-Stack Development
 
